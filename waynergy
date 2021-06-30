@@ -1,7 +1,7 @@
-default xkb_keycodes "mac" {
-	minimum  = 8;
-	maximum  = 255;
-	<ESC>  = 61;
+default xkb_keycodes "waynergy" {
+	minimum = 8;
+	maximum = 255;
+	<ESC>   = 61;
 	<FK01>  = 130;
 	<FK02>  = 128;
 	<FK03>  = 107;
@@ -28,7 +28,7 @@ default xkb_keycodes "mac" {
 	<AE11>  = 35;
 	<AE12>  = 32;
 	<BKSP>  = 59;
-	<TAB>  = 56;
+	<TAB>   = 56;
 	<AD01>  = 20;
 	<AD02>  = 21;
 	<AD03>  = 22;
@@ -70,7 +70,7 @@ default xkb_keycodes "mac" {
 	<LCTL>  = 67;
 	<SPCE>  = 57;
 	<LWIN>  = 63;
-	<UP>  = 134;
+	<UP>    = 134;
 	<LEFT>  = 131;
 	<DOWN>  = 133;
 	<RGHT>  = 132;
